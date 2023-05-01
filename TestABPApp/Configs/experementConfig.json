@@ -1,0 +1,10 @@
+{
+  "Experement1": {
+    "Key": "ButtonCollor",
+    "DefaultValue": "#000000"
+  },
+  "Experement2": {
+    "Key": "Price",
+    "DefaultValue": "10"
+  }
+}
