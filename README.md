@@ -50,7 +50,7 @@
 Клас використовує контекст бази даних `AppDBContext`, який унаслідував від класу `DbContext` з бібліотеки Entity Framework Core. Також він використовує модель даних `User`, яка містить властивості `DeviceToken` та `DateRegistration`, для взаємодії з таблицею "Users" у базі даних.
 
 <h1>Опис Бази даних</h1>
-![alt text](https://github.com/FredBakaj/TestABPApp/DBDiagram.png?raw=true)
+![alt text](https://github.com/FredBakaj/TestABPApp/blob/master/DBDiagram.png?raw=true)
 <h2> User </h2>
 Ця модель найбільш відображає таблицю "Users" у базі даних і містить два поля:
 
